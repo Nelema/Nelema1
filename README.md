@@ -30,8 +30,8 @@ Power BI Desktop, PyCharm**⚙️
  
 <div> 
  <a href="https://github.com/Nelema">
- <img height="180em" src="https:github-readme-stats.vercel.app/api?username=Nelema&show_icons=true&theme=dark&include_all_commits=true&count_private=true"_/>
- <img height="180em" src="https:github-readme-stats.vercel.app/api/top-langs/username=Nelema&layout-compact&langs_count=16&theme=dracula"_/>
+ <img height="180em" src="https:github-readme-stats.vercel.app/api?username=Nelema1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"_/>
+ <img height="180em" src="https:github-readme-stats.vercel.app/api/top-langs/username=Nelema1&layout-compact&langs_count=16&theme=dracula"_/>
 </div>
  
   <div>
@@ -41,4 +41,4 @@ Power BI Desktop, PyCharm**⚙️
   <a href="www.linkedin.com/in/neitalealmattos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![Snake animation](https:github.com/Nelema/Nelema/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelema_icons=true)

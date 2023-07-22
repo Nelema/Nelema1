@@ -26,7 +26,9 @@ Power BI Desktop, PyCharm**⚙️
   <img align="center" alt="Nelema-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nelema-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="js"
- src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logo color=black"/>
+   src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logo color=black"/>
+   <img align="center" alt="MySQL"
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)/>
 </div>
 
  

@@ -51,8 +51,8 @@ Power BI Desktop, PyCharm**⚙️
 
 
 
-
-***Entendendo Git e GitHUB***
+<h1 align= "center">***Entendendo Git e GitHUB***</h1>
+<p align="center"><i>Contribuindo em um Projeto Open Source no GitHub da [Digital Innovation One(https://www.dio.me/).</i></p>
 
 #GIT:  É um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.
 O que é o GitHub: Uma Plataforma de Versionamento, hospedagem de código-fonte com controle de versão usando o Git. 
@@ -84,6 +84,8 @@ Dica: escolha um nome de usuário sem caracteres especiais como: ç e acentos.
 Importante RENOMEAR a branch  (MASTER) para (MAIN)
 Comando : git branch  -M main
 
+
+<p align= "center">Aproveitei esse projeto para conhecer o Git e GitHub e aprofundar meu conhecimento, não tinha ideia do quanto é necessário aprender essas ferramentas e contribuir com projetos principalmente no início, são muitos projetos detalhados pelos **README** e também aprender a fazer um README que os desenvolvedores compreendam.</p> 
 
 
 

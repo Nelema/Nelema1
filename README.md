@@ -41,6 +41,7 @@ Power BI Desktop, PyCharm**⚙️
 </a> 
   <a href = "mailto:contatonemattos717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://linkedin.com/in/neitalealmattos" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  
+  <a href= "https://github-readme"-stats.vercel.app/api/top-langs/?username={Nelema}&theme=blue-green></a>
 
 ![Nelema GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelema&show_icons=true&theme=radical)
+

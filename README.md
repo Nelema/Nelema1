@@ -55,18 +55,22 @@ Power BI Desktop, PyCharm**⚙️
 <p align="center"><i>Contribuindo em um Projeto Open Source no GitHub da [Digital Innovation One(https://www.dio.me/).</i></p>
 
 #GIT:  É um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.
+
 O que é o GitHub: Uma Plataforma de Versionamento, hospedagem de código-fonte com controle de versão usando o Git. 
 Ele permite que desenvolvedores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
 
 ##Criar uma conta no GitHub
+
 A conta é gratuita, para isso, basta acessar o Link : https://github.com/ , criar  uma conta de usuário.
 Dica: escolha um nome de usuário sem caracteres especiais como: ç e acentos.
 
 ###Criando um repositório no GitHub
+
   O que é Repositório? É um diretório onde os arquivos do seu projeto ficam armazenados. Ele pode ficar em um depósito do GitHub ou em seu computador.
   Você pode armazenar códigos, imagens, áudios, ou qualquer outra coisa relacionada ao projeto no diretório.
 
 ##Praticando
+
   Na página, no canto superior à direita na página, clique no menu + e selecione a opção "New repository" (Novo repositório)
   Informe um nome sem espaços e caracteres especiais, de preferência um nome curto e fácil de memorizar.
   Por exemplo: "primeiro-repositorio".
@@ -77,15 +81,21 @@ Dica: escolha um nome de usuário sem caracteres especiais como: ç e acentos.
   Private: Você decide quem pode visualizar e contribuir com este repositório.
 
 ##Inicie o seu repositório com um 
+
   README (LEIAME), este arquivo irá servir para descrever melhor o seu projeto e fornecer instruções de como utilizar.
   Conclua a criação do repositório, clicando no botão "Create repository" (Criar repositório).
 
 ##NO GIT
+
 Importante RENOMEAR a branch  (MASTER) para (MAIN)
 Comando : git branch  -M main
 
 
-<p align= "center">Aproveitei esse projeto para conhecer o Git e GitHub e aprofundar meu conhecimento, não tinha ideia do quanto é necessário aprender essas ferramentas e contribuir com projetos principalmente no início, são muitos projetos detalhados pelos **README** e também aprender a fazer um README que os desenvolvedores compreendam.</p> 
+<p align= "center">Demorei para entender as vantagens de conhecer o Git e GitHub, quando utilizei pela primeira vez, achei complexo e  bloqueei,  meu conhecimento é muito superficial, tenho conciência do quanto é necessário conhecer e aprofundar nas pesquisas, leituras dessas ferramentas para construir, desenvolver habilidades, contribuir e participar de projetos, experiências. 
+  
+  ***•Será que estou entendendo?***
+  
+  ***•Sugestões, esclarecimentos, correções:***> 
 
 
 

@@ -13,7 +13,7 @@
 **Ferramentas que uso: Jupyter Notebook, Google Colab, VSC, MySQL Workbench, 
 Power BI Desktop, PyCharm**⚙️
 
-📊***Minha prioridade é : Estudar e desenvolver o conhecimento do Universo dos Dados na prática.***
+📊***Minha prioridade é : Entender esse Universo da Tecnologia especificamente desenvolver Análise dos Dados transformando o conhecimento teórico em prática.***
 
 
 

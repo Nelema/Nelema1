@@ -25,10 +25,11 @@ Power BI Desktop, PyCharm**⚙️
   <img align="center" alt="Nelema-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nelema-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nelema-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="js"
-   src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logo color=black"/>
-   <img align="center" alt="MySQL"
-   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)/>
+  <img align="center" alt="js"src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javascript&logo color=black">
+  <img align="center" alt="Nelema-MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt = "Nelema-Google Colab" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  <img align="center"alt= "Nelema- Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img align="center" alt="Nelema-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
  
@@ -42,8 +43,9 @@ Power BI Desktop, PyCharm**⚙️
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a> 
   <a href = "mailto:contatonemattos717@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://linkedin.com/in/neitalealmattos" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href= "https://github-readme"-stats.vercel.app/api/top-langs/?username={Nelema}&theme=blue-green></a>
+  <a href ="https://linkedin.com/in/neitalealmattos" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Nelema" target= blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  
 
 ![Nelema GitHub stats](https://github-readme-stats.vercel.app/api?username=Nelema&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nelema&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
